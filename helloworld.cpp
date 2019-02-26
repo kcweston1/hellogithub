@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello Columbia!\n";
+    std::cout << "Hello Columbia College!\n";
     return 0;
 }
